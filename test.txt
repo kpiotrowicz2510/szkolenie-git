@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Czeœæ
 Raz dwa trzy
+=======
+dkkdfkdfjl
+>>>>>>> 7c424bc9553b7b3dde4f657ad1ac1558d99105b0
